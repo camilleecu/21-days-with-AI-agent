@@ -1,1 +1,6 @@
 .env
+.llmvenv/
+.llmzoomcamp/
+.vscode/
+__pycache__/
+*.pyc
