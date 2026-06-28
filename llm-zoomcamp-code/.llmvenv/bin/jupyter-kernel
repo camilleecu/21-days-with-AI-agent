@@ -1,6 +1,0 @@
-#!/workspaces/21-days-with-AI-agent/llm-zoomcamp-code/.llmvenv/bin/python
-import sys
-from jupyter_client.kernelapp import main
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(main())

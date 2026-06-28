@@ -3,4 +3,4 @@
 .llmzoomcamp/
 .vscode/
 __pycache__/
-*.pyc
+*.pyc.llmvenv/
