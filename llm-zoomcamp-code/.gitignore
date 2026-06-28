@@ -1,8 +1,6 @@
 .env
-.llmvenv/
-.llmzoomcamp/
 .vscode/
 __pycache__/
-*.pyc.llmvenv/
-.llmvenv/
-.llmvenv/
+]
+
+agentvenv/
