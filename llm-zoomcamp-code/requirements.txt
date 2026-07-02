@@ -1,0 +1,10 @@
+openai
+google-genai
+python-dotenv
+psycopg-binary
+pandas
+numpy
+sentence-transformers
+torch
+transformers
+scikit-learn
