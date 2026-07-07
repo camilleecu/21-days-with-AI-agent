@@ -5,6 +5,11 @@ from dataclasses import dataclass, field
 from datetime import datetime
 
 from google.genai import types
+
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
 from rag_helper import RAGBase
 
 
